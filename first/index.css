@@ -7,7 +7,7 @@ main {
 }
 
 header {
-    background: green;
+    background: rgb(42, 42, 42);
     width: 100vw;
     height: 75px;
     position: absolute;
@@ -15,7 +15,7 @@ header {
 }
 
 .left-margin {
-background: blue;
+background: rgb(170, 170, 170);
 width: 15%;
 height: 100vh;
 position: fixed;
@@ -24,7 +24,7 @@ margin-top: 67px;
 }
 
 .middle {
-    background: grey;
+    background: rgb(5, 5, 5);
     width: 70%;
     height: 75px;
     position: fixed;
@@ -34,7 +34,7 @@ margin-top: 67px;
 }
 
 .right-margin {
-background:red;
+background: rgb(170, 170, 170);
 width: 15%;
 height: 100vh;
 position: fixed;
