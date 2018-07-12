@@ -1,0 +1,68 @@
+.outertop {
+    border: solid black 2px;
+    margin: 25px 5px;
+    margin-left: 42px;
+}
+
+.obj1 {
+background: rgb(70, 30, 115);
+width: 35px;
+height: 75px;
+margin-top: 40px;
+margin-left: 10px;
+margin-bottom: 10px;
+display: inline-block;
+}
+
+.obj2 {
+    background: green;
+    display: inline-block;
+    height: 80px;
+    width: 600px;
+}
+
+.obj3 {
+    background: rgb(50, 150, 250);
+    float: right;
+    height: 95px;
+    width: 95px;
+    border-radius: 50%;
+    margin-top: -60px;
+    display: inline-block;
+    margin-right: 40px;
+}
+
+.outer {
+    border: dotted black;
+    width: 90%;
+    height: 150px;
+    position: fixed;
+    bottom: 45%;
+    text-align: center;
+    padding: 20px 0px;   
+    margin: 25px 50px;
+}
+
+.inner {
+    background: rgb(240, 240, 0) center top no-repeat;
+    padding: 50px 80px;
+    margin: 0px 150px
+}
+
+.footerout{
+    background:white;
+    border: solid black .2px;
+    width: 70%;
+    height: 150px;
+    position: fixed;
+    bottom: 10%;
+    text-align: center;
+    padding: 20px 0px;   
+    margin: 25px 150px;
+}
+
+.footerin {
+    padding: 50px 80px;
+    color: rgb(2, 2, 187);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
