@@ -1,0 +1,49 @@
+body {
+    width: 100%;
+    margin: auto;
+}
+
+header {
+    height: 13vh;
+    background-color: rgb(170, 170, 170);
+}
+
+.blue-guy {
+    height: 11vh;
+    width: 11vh;
+    margin: 1vh 3vh;
+    float: left;
+    background-color: blue;
+
+
+}
+
+.white {
+    height: 27vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    overflow-wrap: break-word;
+    margin: 0vh 5vh;
+}
+
+.blue {
+    background-color: blue;
+    height: 15vh;
+}
+
+.teal {
+    background-color: teal;
+    height: 15vh;
+}
+
+.seaweed {
+    background-color: aquamarine;
+    height: 15vh;
+}
+
+.gold {
+    background-color: gold;
+    height: 15vh;
+}
